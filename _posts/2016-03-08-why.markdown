@@ -2,7 +2,7 @@
 layout: post
 title:  "Why"
 date:   2016-03-08 12:31:00 +0800
-categories: blogging jekyll
+categories: blogging jekyll developer
 ---
 After thinking about it for quite some time, due to the ever increasing amount of content getting published every minute on the internet, I decided that it would be an incredibly fun challenge to take advantage of this opportunity and create my own space to share my thoughts.
 

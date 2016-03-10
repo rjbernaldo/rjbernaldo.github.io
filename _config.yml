@@ -11,7 +11,7 @@ email: rj.bernaldo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rjbernaldo.github.io" # the base hostname & protocol for your site
-#twitter_username: rjbernaldo
+# twitter_username: rjbernaldo
 github_username:  rjbernaldo
 
 # Build settings

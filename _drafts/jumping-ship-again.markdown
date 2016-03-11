@@ -1,7 +1,5 @@
 ---
 layout: post
-title:  "Unlucky"
-date:   2016-03-08 12:31:00 +0800
+title:  "Jumping Ship... Again."
 categories: resignation unlucky startup career
 ---
-

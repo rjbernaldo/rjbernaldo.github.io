@@ -7,11 +7,20 @@ I tried out React.js two years ago and I loved it. Unfortunately, I've been preo
 
 After a couple hours of research, it was clear that the new syntax was brought about by ECMAScript 2015 (or ES6) and turns out, the numerous changes actually brought in several welcome additions to the core feature set of Javascript.
 
-## Variable Declaration
+## Variable Declaration (Blocked Scope)
 
-LET
+- LET (Before ES6)
+{% highlight javascript %}
+function doubleNum(x) {
+	if (true) {
+		let x = 0;
+	}
 
-CONST
+	return x * 2;
+}
+{% endhighlight %}
+
+- CONST
 
 ## Functions
 

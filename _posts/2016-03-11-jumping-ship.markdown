@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jumping Ship (Again)"
+title:  "Jumping Ship"
 date:   2016-03-11 15:00:00 +0800
 categories: resignation unlucky startup career rant
 ---

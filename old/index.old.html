@@ -1,0 +1,16 @@
+---
+layout: custom_default
+---
+
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h1 class="post-title">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="local-link">{{ post.title }}</a>
+        </h1>
+        <p class="post-meta">Posted by Rj Bernaldo on {{ post.date | date: "%B %-d, %Y" }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
